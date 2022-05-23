@@ -1,6 +1,6 @@
 # MobilePrice
-Mobile Price Classification
+Mobile Price Classification.
 
-Data visualization done in R
+Data visualization done in R.
 
-Model training done in Python
+Data preprocessing, EDA, Model training done in Python.
